@@ -21,7 +21,7 @@ result = factorial(number)
 print(f"The factorial of {number} is {result}")
 
 ```
-When you can, apply syntax highligting to your codeblocks. Use this format:
+Apply syntax highligting to your codeblocks when you can.
 ```python
 def factorial(n):
     if n == 0:
@@ -45,16 +45,72 @@ Uncaught TypeError: Cannot read property 'middleName' of undefined
 ```
 > Here is an example of using a codeblock for an error that appears in the console.
 
+When you can always provide a codeblock instead of a screenshot.
+If your need to take a screenshot make sure its not a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen.
+> If it renders on your computer screen it should be a screenshot.
+
+
 # Step 2 | How to Take Screenshots 
 
 A screeenshot is when you capture a part of your screen from you phone, laptop, or desktop.
 Not to be confused with taking a picture with your phone.
 
 **What NOT to do**
-![A photo taken with you phone](assets/phone-screenshot.jpg)
 
-The proper way
-![Screenshot using ctrl + Q](assets/)
+![A photo taken with you phone](assets/screenshot.jpg)
+
+**What to do**
+
+![Screenshot using ctrl + Q](assets/js-screenshot.png)
+
+How to take screenshots on Mac and Windows:
+
+Taking screenshots on both Mac and Windows can be done using built-in keyboard shortcuts and tools. Here's how you can take screenshots on both platforms:
+
+**On Mac:**
+
+1. **Capture the Entire Screen:**
+   - Press `Command (⌘) + Shift + 3` simultaneously.
+   - The screenshot will be saved as a file on your desktop.
+
+2. **Capture a Selected Portion of the Screen:**
+   - Press `Command (⌘) + Shift + 4`.
+   - Your cursor will turn into a crosshair.
+   - Click and drag to select the area you want to capture.
+   - Release the mouse button to take the screenshot.
+   - The screenshot will be saved as a file on your desktop.
+
+3. **Capture a Specific Window:**
+   - Press `Command (⌘) + Shift + 4`, then press `Spacebar`.
+   - Click on the window you want to capture.
+   - The screenshot of the selected window will be saved as a file on your desktop.
+
+4. **Capture a Screen to the Clipboard (no file saved):**
+   - Press `Command (⌘) + Control + Shift + 3` to capture the entire screen.
+   - Press `Command (⌘) + Control + Shift + 4` to capture a portion of the screen.
+
+**On Windows:**
+
+1. **Capture the Entire Screen:**
+   - Press `PrtScn` (Print Screen) key. This captures the entire screen to the clipboard.
+   - You can then paste the screenshot into an image editor (e.g., Paint, Photoshop) or a document (e.g., Word) and save it from there.
+
+2. **Capture the Active Window:**
+   - Press `Alt + PrtScn`. This captures only the currently active window to the clipboard.
+
+3. **Capture a Selected Portion of the Screen (Windows 10 and later):**
+   - Press `Windows + Shift + S`.
+   - Your screen will dim, and you can select the area you want to capture.
+   - The screenshot will be copied to the clipboard, and you can paste it into an image editor or document.
+
+4. **Use Snipping Tool (Windows 7) or Snip & Sketch (Windows 10 and later):**
+   - Search for "Snipping Tool" or "Snip & Sketch" in the Start menu.
+   - Open the tool and use it to capture the screen or a portion of it.
+   - You can annotate, save, and share the screenshot from within these tools.
+
+Please note that the specific keyboard shortcuts and tools may vary slightly depending on the version of macOS or Windows you are using, but the ones mentioned here are the most commonly used methods.
 
 
 # Step 3 | Use Github Flavored Markdown (GFM) Task Lists
