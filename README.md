@@ -54,6 +54,7 @@ Not to be confused with taking a picture with your phone.
 ![A photo taken with you phone](assets/phone-screenshot.jpg)
 
 The proper way
+![Screenshot using ctrl + Q](assets/)
 
 
 # Step 3 | Use Github Flavored Markdown (GFM) Task Lists
