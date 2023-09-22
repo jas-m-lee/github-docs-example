@@ -34,7 +34,7 @@ number = 5
 result = factorial(number)
 print(f"The factorial of {number} is {result}")
 ```
-![dan-nelson-ah-HeguOe9k-unsplash](https://github.com/jas-m-lee/github-docs-example/assets/137957852/e19b6f50-16ec-45f9-ab77-1ffd891ad0ae)
+![dan-nelson-ah-HeguOe9k-unsplash](assets/dan-nelson-ah-HeguOe9k-unsplash.jpg)
 
 
 Good Cloud Engineers use codeblocks for both code and erros that appear in the console.
@@ -45,8 +45,19 @@ Uncaught TypeError: Cannot read property 'middleName' of undefined
 ```
 > Here is an example of using a codeblock for an error that appears in the console.
 
+# Step 2 | How to Take Screenshots 
+
+A screeenshot is when you capture a part of your screen from you phone, laptop, or desktop.
+Not to be confused with taking a picture with your phone.
+
+**What NOT to do**
+![A photo taken with you phone](assets/phone-screenshot.jpg)
+
+The proper way
+
+
 # Step 3 | Use Github Flavored Markdown (GFM) Task Lists
-Github extends Markdown to have list where you can check off items. [<sup>[3]</sup>](#external-references)
+Github extends Markdown to have list where you can check off items. [<sup>[3]</sup>](##external-references)
 
 - [x] Finish step 1
 - [ ] Finish step 2
@@ -71,8 +82,7 @@ You can use the following markdwon format to create tables:
 | --- | --- | --- |
 | Cloud | `:cloud:` | ☁️ |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[5]</sup>](#external-references)
-
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. <sup>[5]</sup>
 
 # External References <sup>[2]</sup>
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[1]</sup>
